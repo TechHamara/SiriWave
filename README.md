@@ -12,7 +12,7 @@ A custom component developed by th using Fast, designed to simulate a Siri-like 
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-05-10 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
-
+📚 **Library Used On** Thanks [alexgomes09](https://github.com/alexgomes09/SIRIWaveView) to this awesome library.
 ## Demo
 
 ![d13a89fc-7305-4b81-98aa-802814ebe4bd.gif](https://github.com/user-attachments/assets/d6361b7c-6eb2-4f0f-bd55-5c60535e791e)
