@@ -13,6 +13,14 @@ A custom component developed by th using Fast, designed to simulate a Siri-like 
 📅 **Updated On:** [date=2025-05-10 timezone="Asia/Calcutta"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
 
+## Demo
+
+![d13a89fc-7305-4b81-98aa-802814ebe4bd.gif](https://github.com/user-attachments/assets/d6361b7c-6eb2-4f0f-bd55-5c60535e791e)
+
+![Screenshot_2025-05-11-10-38-15-223_appinventor.ai_Techhamara91.siriwaveview.jpg](https://github.com/user-attachments/assets/41b7ff5d-6644-4ccb-a862-12d846188920)
+
+## Blocks 
+
 ![Start_Event](https://github.com/user-attachments/assets/dad80743-94a7-402c-8d11-89b9166965af)
 ![Error_Event](https://github.com/user-attachments/assets/91f286db-6387-4864-af12-614dc6b273c5)
 ![Stop_Event](https://github.com/user-attachments/assets/30a3dc93-88bd-4d49-b3cd-87a8780f3a2b)
