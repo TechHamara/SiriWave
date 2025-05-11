@@ -6,12 +6,12 @@ A custom component developed by th using Fast, designed to simulate a Siri-like 
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.siriwave
-💾 **Size:** 12.72 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-05-10 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
+📦 **Package:** io.th.siriwave<br>
+💾 **Size:** 12.72 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-05-10 timezone="Asia/Calcutta"]<br>
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
 
 ## Demo
 
